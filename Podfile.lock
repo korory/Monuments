@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (5.5.0)
+  - Google-Maps-iOS-Utils (3.4.0):
+    - Google-Maps-iOS-Utils/Clustering (= 3.4.0)
+    - Google-Maps-iOS-Utils/Geometry (= 3.4.0)
+    - Google-Maps-iOS-Utils/Heatmap (= 3.4.0)
+    - Google-Maps-iOS-Utils/QuadTree (= 3.4.0)
+    - GoogleMaps
+  - Google-Maps-iOS-Utils/Clustering (3.4.0):
+    - Google-Maps-iOS-Utils/QuadTree
+    - GoogleMaps
+  - Google-Maps-iOS-Utils/Geometry (3.4.0):
+    - GoogleMaps
+  - Google-Maps-iOS-Utils/Heatmap (3.4.0):
+    - Google-Maps-iOS-Utils/QuadTree
+    - GoogleMaps
+  - Google-Maps-iOS-Utils/QuadTree (3.4.0):
+    - GoogleMaps
+  - GoogleMaps (6.1.1):
+    - GoogleMaps/Maps (= 6.1.1)
+  - GoogleMaps/Base (6.1.1)
+  - GoogleMaps/Maps (6.1.1):
+    - GoogleMaps/Base
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - Google-Maps-iOS-Utils (= 3.4.0)
+  - GoogleMaps (= 6.1.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Google-Maps-iOS-Utils
+    - GoogleMaps
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  Google-Maps-iOS-Utils: 2b4971019b7e9b3c92b4635d218552d9e093df4b
+  GoogleMaps: 94e6e0851beece6678af9f508f4918b7a7c61722
+
+PODFILE CHECKSUM: f05844a30d689370b4e2e5fef89e7ce77a536b89
+
+COCOAPODS: 1.11.3
