@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import GoogleMapsUtils
 
-let googleMapsAPI = "AIzaSyBZ_CyV-ox-epc6vdEO_8heHRlpLJbCLiI"
+let googleMapsAPI = "PLACE_YOUR_API_KEY"
 var geoCoordenates: [GMUGeometryContainer] = []
