@@ -25,7 +25,7 @@ This application is for personal and non-profit use only.
    ```sh
    pod install --repo-update
    ```
-3. Place your Google Maps API in Constraints Class
+3. Place your Google Maps API in Constants Class
    ```sh
    let googleMapsAPI = "PLACE_YOUR_API_KEY"
    ```
